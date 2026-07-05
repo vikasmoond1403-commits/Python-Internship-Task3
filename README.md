@@ -1,4 +1,5 @@
 # Python Programming Internship - Task 3
+It is third task of python programming intership.
 
 Features:
 - Add expenses with category
